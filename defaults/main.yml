@@ -3,6 +3,7 @@ exfat_build_packages:
   - autoconf
   - automake
   - gcc
+  - git
   - libfuse-dev
   - make
   - pkg-config
